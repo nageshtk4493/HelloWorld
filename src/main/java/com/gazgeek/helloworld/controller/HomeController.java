@@ -8,7 +8,7 @@ public class HomeController {
 
     @RequestMapping("/")
     String home() {
-        return "KACHA BADAM";
+        return "install maven demo";
     }
 
 }
